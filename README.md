@@ -5,7 +5,7 @@ Class:
 Project:
 Title: README
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 13:20
+DateModified: 2026-02-27 13:45
 Type:
 Status:
 Version:
@@ -26,9 +26,6 @@ CardRecord:
 ### 📋 产品概述
 
 **BuildZotero** 是基于 Zotero，专属于科研工作者的**文献 AI Agent**。通过连通 **Zotero（文献管理与阅读）+ Obsidian（笔记看板与管理）+ Cursor 终端（笔记 Agent，直接通过 Cursor 管理笔记）**，构建完整的科研工作流闭环。
-
-
-**项目成就**：获得清华大学、中国科学技术大学等多个实验室邀请进行专项分享，产品被采纳并协助其进行 Zotero 智能文献管理系统的部署。
 
 **产品愿景**：**AI4S（AI for Science）**，专属于科研工作者的 AI Agent，融入科研工作者的工作流中，让 AI 真正地赋能科研工作。
 
