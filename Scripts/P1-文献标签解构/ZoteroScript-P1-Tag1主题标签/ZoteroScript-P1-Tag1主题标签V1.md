@@ -1,23 +1,33 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P1-Tag1主题标签V1
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-01-28 13:03
-Status:
-Version:
+DateModified: 2026-04-18 17:38
 Type:
-CardStatus:
+  - doc
+Status:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [Zotero, 代码, 标签, 脚本]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - Zotero
+  - 代码
+  - 标签
+  - 脚本
+  - Pattern/Method
 RelatedNote:
+RelatedProjects:
 CardRecord:
-date: 2024-06-20
-related:
-  - - zotero_code/zotero_script_最终优化版本
 ---
 
 ## ZoteroScript-P1-Tag1 主题标签 V1

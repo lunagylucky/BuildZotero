@@ -1,24 +1,33 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P1-Tag4理论标签V1
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 12:23
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [代码, 脚本, 理论标签, Zotero]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 代码
+  - 脚本
+  - 理论标签
+  - Zotero
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
-date: 2024-06-20
-related:
-  - - zotero_code/zotero_script_主题标签
 ---
 
 ## ZoteroScript-P1-Tag4 理论标签 V1

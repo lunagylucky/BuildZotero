@@ -1,22 +1,44 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P3-TagM4-地区固定效应V2
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-01-28 13:03
-Status:
-Version:
+DateModified: 2026-04-18 17:38
 Type:
-CardStatus:
+  - doc
+Status:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [JavaScript, V2版本, Zotero, 代码, 固定效应, 地区标签, 学术研究, 实证方法, 年份标签, 智能清理, 标签体系, 标签维护, 行业标签, 面板数据]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - JavaScript
+  - V2版本
+  - Zotero
+  - 代码
+  - 固定效应
+  - 地区标签
+  - 学术研究
+  - 实证方法
+  - 年份标签
+  - 智能清理
+  - 标签体系
+  - 标签维护
+  - 行业标签
+  - 面板数据
+  - Pattern/Method
 RelatedNote:
+RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P3-TagM4- 地区固定效应 V2
 

@@ -1,22 +1,30 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
+  - BuildZotero
 Title: ZoteroScript-P0-M4标题清理 -版本迭代说明
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 12:13
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: []
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## M4- 标题清理 版本迭代说明
 

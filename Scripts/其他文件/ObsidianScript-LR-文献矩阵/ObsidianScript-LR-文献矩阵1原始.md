@@ -1,18 +1,27 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ObsidianScript-LR-文献矩阵1原始
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 10:59
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [zoteroone]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - zoteroone
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:

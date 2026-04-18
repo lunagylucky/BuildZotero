@@ -1,23 +1,30 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P1-Tag0-文献标签管理体系设计局部详解
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 11:08
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: []
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## 文献标签系统模块流程图
 

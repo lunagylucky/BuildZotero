@@ -1,22 +1,42 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P1-Tag3样本标签V2
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-01-28 13:03
-Status:
-Version:
+DateModified: 2026-04-18 17:38
 Type:
-CardStatus:
+  - doc
+Status:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [AI, JavaScript, Zotero, 三维标签, 代码, 学术分析, 层次理论, 文献管理, 标签体系, 样本分析, 研究对象, 研究方法学]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - AI
+  - JavaScript
+  - Zotero
+  - 三维标签
+  - 代码
+  - 学术分析
+  - 层次理论
+  - 文献管理
+  - 标签体系
+  - 样本分析
+  - 研究对象
+  - 研究方法学
+  - Pattern/Method
 RelatedNote:
+RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P1-Tag3 样本标签 V2
 

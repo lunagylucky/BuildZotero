@@ -1,23 +1,39 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P0-M1标签展示V1
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 11:18
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [标签匹配, 代码, 九脚本生态, 模式识别, 数据验证, 正则表达式, 字符串处理, JavaScript, Zotero]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 标签匹配
+  - 代码
+  - 九脚本生态
+  - 模式识别
+  - 数据验证
+  - 正则表达式
+  - 字符串处理
+  - JavaScript
+  - Zotero
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P0-M1 标签展示 V1
 

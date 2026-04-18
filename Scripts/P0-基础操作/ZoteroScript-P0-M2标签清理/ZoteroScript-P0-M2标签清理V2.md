@@ -1,23 +1,40 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P0-M2标签清理V2
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 11:16
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [保护性设计, 标签清理, 代码, 规则驱动, 九脚本生态, 批量处理, 智能过滤, 自动化工具, JavaScript, Zotero]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 保护性设计
+  - 标签清理
+  - 代码
+  - 规则驱动
+  - 九脚本生态
+  - 批量处理
+  - 智能过滤
+  - 自动化工具
+  - JavaScript
+  - Zotero
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P0- 标签清理 V2
 

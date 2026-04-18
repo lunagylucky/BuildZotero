@@ -1,22 +1,38 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ObsidianScript-LR1-文献矩阵0设计架构
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-01-28 13:03
-Status:
-Version:
+DateModified: 2026-04-18 17:38
 Type:
-CardStatus:
+  - doc
+Status:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [DataviewJS, JavaScript, Obsidian, 代码, 学术工具, 文献矩阵, 文献管理, 知识管理]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - DataviewJS
+  - JavaScript
+  - Obsidian
+  - 代码
+  - 学术工具
+  - 文献矩阵
+  - 文献管理
+  - 知识管理
+  - Pattern/Method
 RelatedNote:
+RelatedProjects:
 CardRecord:
 ---
-
 
 ## ObsidianScript-LR1- 文献矩阵 0 设计架构
 

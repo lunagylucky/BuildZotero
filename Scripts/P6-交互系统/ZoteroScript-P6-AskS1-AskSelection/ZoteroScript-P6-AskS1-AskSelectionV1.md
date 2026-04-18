@@ -1,23 +1,40 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P6-AskS1-AskSelectionV1
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 11:57
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [代码实现, 即时分析, 文本选择, 学习工具, 正则表达式, 智能阅读, 智能助手, AskSelection, PDF分析, Zotero插件]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 代码实现
+  - 即时分析
+  - 文本选择
+  - 学习工具
+  - 正则表达式
+  - 智能阅读
+  - 智能助手
+  - AskSelection
+  - PDF分析
+  - Zotero插件
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P 6-AskS1-AskSelectionV1
 

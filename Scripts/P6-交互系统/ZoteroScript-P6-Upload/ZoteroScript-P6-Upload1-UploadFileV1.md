@@ -1,23 +1,38 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P6-Upload1-UploadFileV1
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 11:58
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [代码, 批量处理, 文件上传, 学术工具, 自动化脚本, JavaScript, OpenAI, Zotero]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 代码
+  - 批量处理
+  - 文件上传
+  - 学术工具
+  - 自动化脚本
+  - JavaScript
+  - OpenAI
+  - Zotero
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P 6-Upload1-UploadFileV1
 

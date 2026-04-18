@@ -1,23 +1,35 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P6-AskS2-AskAnnotationsV1
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 11:57
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [代码, 高亮标注, 阅读痕迹, PDF注释, Zotero插件]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 代码
+  - 高亮标注
+  - 阅读痕迹
+  - PDF注释
+  - Zotero插件
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P 6-AskS2-AskAnnotationsV1
 

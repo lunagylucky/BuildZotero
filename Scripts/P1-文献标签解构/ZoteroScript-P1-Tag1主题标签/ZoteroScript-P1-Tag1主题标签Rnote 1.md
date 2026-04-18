@@ -1,22 +1,42 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P1-Tag1主题标签Rnote 1
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-01-28 13:03
-Status:
-Version:
+DateModified: 2026-04-18 17:38
 Type:
-CardStatus:
+  - doc
+Status:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [AI, JavaScript, Zotero, 七脚本生态, 主题标签, 代码, 内容分析, 学术研究, 文献分析, 智能标记, 标签体系, 知识管理]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - AI
+  - JavaScript
+  - Zotero
+  - 七脚本生态
+  - 主题标签
+  - 代码
+  - 内容分析
+  - 学术研究
+  - 文献分析
+  - 智能标记
+  - 标签体系
+  - 知识管理
+  - Pattern/Method
 RelatedNote:
+RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P1-Tag1 主题标签 Rnote 1
 

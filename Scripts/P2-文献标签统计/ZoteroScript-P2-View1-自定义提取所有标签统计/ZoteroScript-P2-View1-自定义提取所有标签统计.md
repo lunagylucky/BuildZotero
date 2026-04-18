@@ -1,23 +1,37 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P2-View1-自定义提取所有标签统计
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 11:38
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [代码, 批量处理, 文献管理, 自动化脚本, HTML清理, JavaScript, Zotero]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 代码
+  - 批量处理
+  - 文献管理
+  - 自动化脚本
+  - HTML清理
+  - JavaScript
+  - Zotero
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P2-View1- 自定义提取所有标签统计
 

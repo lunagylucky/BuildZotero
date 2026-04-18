@@ -1,23 +1,42 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P1-Tag1主题标签R1
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 11:07
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [标签体系, 代码, 内容分析, 七脚本生态, 文献分析, 学术研究, 知识管理, 智能标记, 主题标签, AI, JavaScript, Zotero]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 标签体系
+  - 代码
+  - 内容分析
+  - 七脚本生态
+  - 文献分析
+  - 学术研究
+  - 知识管理
+  - 智能标记
+  - 主题标签
+  - AI
+  - JavaScript
+  - Zotero
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P1-Tag1 主题标签 R1
 

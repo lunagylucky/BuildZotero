@@ -1,23 +1,50 @@
 ---
 System:
+  - Project
 Process:
+  - 4-WorkProjects
 Class:
+  - 02TS
 Project:
   - BuildZotero
 Title: ZoteroScript-P1-Tag2方法标签V6-R
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-02-27 12:28
+DateModified: 2026-04-18 17:38
 Type:
+  - doc
 Status:
-Version:
-CardStatus:
+  - doing
+Version: v1.0
+CardStatus: false
 CardType:
-tags: [标签体系, 层次理论, 代码, 方法学分析, 方法学理论, 技术创新, 三层架构, 三维标签, 文献管理, 学术标准, 学术分析, 学术研究, 研究对象, 研究方法, 研究方法学, 样本分析, 质量控制, AI, JavaScript, Zotero]
+  - card-fleeting
+tags:
+  - Topic/工具技能/工作笔记
+  - 标签体系
+  - 层次理论
+  - 代码
+  - 方法学分析
+  - 方法学理论
+  - 技术创新
+  - 三层架构
+  - 三维标签
+  - 文献管理
+  - 学术标准
+  - 学术分析
+  - 学术研究
+  - 研究对象
+  - 研究方法
+  - 研究方法学
+  - 样本分析
+  - 质量控制
+  - AI
+  - JavaScript
+  - Zotero
+  - Pattern/Method
 RelatedNote:
 RelatedProjects:
 CardRecord:
 ---
-
 
 ## ZoteroScript-P1-Tag2 方法标签 V6-R（重新处理版本）
 
