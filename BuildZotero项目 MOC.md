@@ -1,31 +1,32 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: BuildZotero项目 MOC
 DateCreated: 2026-04-17 12:00
-DateModified: 2026-04-18 17:38
+DateModified: 2026-04-19 12:00
 Type:
-  - map
+- map
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Pattern/Model
-  - Topic/工具技能/项目地图
+- Pattern/Model
+- Topic/工具技能/项目地图
 RelatedNote:
-  - "[[产品文档/BuildZotero-项目介绍梳理]]"
-  - "[[Scripts/所有最新版本代码集合]]"
-RelatedProjects:
-CardRecord:
+- '[[产品文档/BuildZotero-项目介绍梳理]]'
+- '[[Scripts/所有最新版本代码集合]]'
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## BuildZotero 项目 MOC
@@ -39,7 +40,7 @@ CardRecord:
 3. [[产品文档/04-产品架构文档]]
 4. [[产品文档/05-产品路线图]]
 5. [[Scripts/所有最新版本代码集合]]
-6. [[面试文档/BuildZotero-面试问答集（业务面·创新方法研究员）]]
+6. [[面试文档/项目-BuildZotero-02-任务主线与业务面问答]]
 
 ### 02. 产品文档区（产品定义与对外表达）
 
@@ -57,7 +58,7 @@ CardRecord:
 
 - [[产品文档/BuildZotero——AI驱动的知识工程解决方案产品介绍]]
 - [[产品文档/BuildZotero——AI驱动的知识工程解决方案-简历撰写]]
-- [[产品文档/BuildZotero——AI驱动的知识工程解决方案-简历深挖]]
+- [[面试文档/项目-BuildZotero-02-任务主线与业务面问答]]（原「简历深挖」已合并至此）
 - [[产品文档/BuildZotero-技术架构与产品优势分析]]
 - [[产品文档/BuildZotero-产品需求文档]]
 - [[产品文档/BuildZotero-功能清单]]
@@ -67,11 +68,10 @@ CardRecord:
 
 ### 03. 面试文档区（项目讲述与问答）
 
-- [[面试文档/BuildZotero-项目介绍梳理]]
-- [[面试文档/BuildZotero——AI驱动的知识工程解决方案产品介绍]]
-- [[面试文档/BuildZotero——AI驱动的知识工程解决方案-简历撰写]]
-- [[面试文档/BuildZotero——AI驱动的知识工程解决方案-简历深挖]]
-- [[面试文档/BuildZotero-面试问答集（业务面·创新方法研究员）]]
+- [[项目-BuildZotero-06项目介绍梳理]]
+- [[项目-BuildZotero-07产品介绍文档]]
+- [[项目-BuildZotero-01简历撰写]]
+- [[面试文档/项目-BuildZotero-02-任务主线与业务面问答]]
 
 ### 04. 脚本系统区（Script Hub）
 

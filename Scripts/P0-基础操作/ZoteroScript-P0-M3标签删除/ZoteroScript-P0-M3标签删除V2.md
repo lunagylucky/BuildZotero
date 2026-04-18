@@ -1,39 +1,40 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P0-M3标签删除V2
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - 安全机制
-  - 八脚本生态
-  - 标签删除
-  - 代码
-  - 工作流工具
-  - 批量操作
-  - 数据管理
-  - 用户交互
-  - JavaScript
-  - Zotero
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- 安全机制
+- 八脚本生态
+- 标签删除
+- 代码
+- 工作流工具
+- 批量操作
+- 数据管理
+- 用户交互
+- JavaScript
+- Zotero
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## ZoteroScript-P0-M3 标签删除 V2

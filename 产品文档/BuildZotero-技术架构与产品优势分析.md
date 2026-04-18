@@ -1,30 +1,30 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: BuildZotero-技术架构与产品优势分析
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - publish
+- publish
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: true
 CardType:
-  - card-project
+- card-project
 tags:
-  - Topic/工具技能/工作笔记
-  - Pattern/Memo
-RelatedNote:
-RelatedProjects:
-CardRecord: >-
-  围绕 BuildZotero 下的 BuildZotero-技术架构与产品优势分析 沉淀可复用经验，支持检索、复盘与迭代。
+- Topic/工具技能/工作笔记
+- Pattern/Memo
+RelatedNote: []
+RelatedProjects: []
+CardRecord: 围绕 BuildZotero 下的 BuildZotero-技术架构与产品优势分析 沉淀可复用经验，支持检索、复盘与迭代。
 ---
 
 > [!summary] 项目概览｜BuildZotero 技术架构与产品优势分析

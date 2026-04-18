@@ -1,39 +1,40 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P1-Tag4理论标签V6-Rnote
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - AI
-  - JavaScript
-  - Zotero
-  - 代码
-  - 学术研究
-  - 文献分析
-  - 理论框架
-  - 理论识别
-  - 知识管理
-  - 自动化标签
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- AI
+- JavaScript
+- Zotero
+- 代码
+- 学术研究
+- 文献分析
+- 理论框架
+- 理论识别
+- 知识管理
+- 自动化标签
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## ZoteroScript-P1-Tag4 理论标签 V6-Rnote

@@ -1,39 +1,40 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P3-TagM1自定义变量定义与衡量分类V1
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - 变量测量
-  - 变量定义
-  - 标签体系
-  - 代码
-  - 多样性
-  - 韧性
-  - 冗余
-  - 自动化标签
-  - JavaScript
-  - Zotero
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- 变量测量
+- 变量定义
+- 标签体系
+- 代码
+- 多样性
+- 韧性
+- 冗余
+- 自动化标签
+- JavaScript
+- Zotero
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## ZoteroScript-P3-TagM1- 变量定义与衡量分类 V 1

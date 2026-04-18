@@ -1,39 +1,40 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P1-Tag0-文献标签管理体系设计主题架构
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - 结构化数据
-  - 科研工具
-  - 文献管理
-  - 效率工具
-  - 学术研究
-  - 知识管理
-  - 自动化
-  - AI标签
-  - JavaScript
-  - Zotero
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- 结构化数据
+- 科研工具
+- 文献管理
+- 效率工具
+- 学术研究
+- 知识管理
+- 自动化
+- AI标签
+- JavaScript
+- Zotero
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## 🏗️ 文献数据结构化系统 - 科研知识管理核心环节

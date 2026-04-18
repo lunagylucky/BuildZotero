@@ -7,24 +7,24 @@ Class:
   - 02TS
 Project:
   - BuildZotero
-Title: BuildZotero-项目介绍梳理
+Title: 项目-BuildZotero-06项目介绍梳理
 DateCreated: 2026-04-17 08:20
-DateModified: 2026-04-18 17:38
+DateModified: 2026-04-19 01:50
 Type:
   - doc
 Status:
   - doing
-Version: v1.0
+Version:
+  - v1.0
 CardStatus: false
 CardType:
   - card-fleeting
-tags:
-  - Topic/工具技能/工作笔记
-  - [Pattern/Memo, Topic/工具技能/工作笔记]
-  - Pattern/Memo
+tags: [Pattern/Memo, Topic/工具技能/工作笔记]
 RelatedNote:
-RelatedProjects:
-CardRecord:
+  - '[[项目-BuildZotero-01简历撰写]]'
+  - '[[项目-BuildZotero-02-任务主线与业务面问答]]'
+RelatedProjects: []
+CardRecord: 项目定位与模块梳理；面试主线与问答见 [[项目-BuildZotero-02-任务主线与业务面问答]]。
 ---
 
 # BuildZotero —— AI 驱动的知识工程解决方案

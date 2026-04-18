@@ -1,39 +1,40 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P6-AskS6-AskNoteV1
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - 笔记分析
-  - 个人知识库
-  - 思考整理
-  - 学术写作
-  - 学术研究
-  - 知识管理
-  - 智能助手
-  - AskNote
-  - BetterNotes
-  - Zotero插件
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- 笔记分析
+- 个人知识库
+- 思考整理
+- 学术写作
+- 学术研究
+- 知识管理
+- 智能助手
+- AskNote
+- BetterNotes
+- Zotero插件
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## ZoteroScript-P 6-AskS6-AskNoteV1

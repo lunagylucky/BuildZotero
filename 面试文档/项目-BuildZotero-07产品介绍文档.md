@@ -7,24 +7,25 @@ Class:
   - 02TS
 Project:
   - BuildZotero
-Title: BuildZotero——AI驱动的知识工程解决方案产品介绍
+Title: 项目-BuildZotero-07产品介绍文档
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-04-18 17:38
+DateModified: 2026-04-19 12:00
 Type:
   - publish
 Status:
   - doing
-Version: v1.0
+Version:
+  - v1.0
 CardStatus: true
 CardType:
   - card-project
-tags:
-  - Topic/工具技能/工作笔记
-  - Pattern/Memo
+tags: [Pattern/Memo, Topic/工具技能/工作笔记]
 RelatedNote:
-RelatedProjects:
-CardRecord: >-
-  围绕 BuildZotero 下的 BuildZotero——AI驱动的知识工程解决方案产品介绍 沉淀可复用经验，支持检索、复盘与迭代。
+  - '[[项目-BuildZotero-01简历撰写]]'
+  - '[[项目-BuildZotero-02-任务主线与业务面问答]]'
+  - '[[项目-BuildZotero-06项目介绍梳理]]'
+RelatedProjects: []
+CardRecord: 对外发布页与演示入口；简历与面试主线见 01、[[项目-BuildZotero-02-任务主线与业务面问答]]；系统定位见 06。
 ---
 
 ❤️请点击以下进入 [BuildZotero产品介绍](https://publish.obsidian.md/gyjob/4-WorkProjects/11Luna/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E9%9B%86/BuildZotero%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D)

@@ -7,24 +7,23 @@ Class:
   - 02TS
 Project:
   - BuildZotero
-Title: BuildZotero——AI驱动的知识工程解决方案-简历撰写
+Title: 项目-BuildZotero-01简历撰写
 DateCreated: 2026-01-17 17:37
-DateModified: 2026-04-18 17:38
+DateModified: 2026-04-19 12:00
 Type:
   - doc
 Status:
   - doing
-Version: v1.0
+Version:
+  - v1.0
 CardStatus: true
 CardType:
   - card-project
-tags:
-  - Topic/工具技能/工作笔记
-  - Pattern/Memo
+tags: [Pattern/Memo, Topic/工具技能/工作笔记]
 RelatedNote:
-RelatedProjects:
-CardRecord: >-
-  围绕 BuildZotero 下的 BuildZotero——AI驱动的知识工程解决方案-简历撰写 沉淀可复用经验，支持检索、复盘与迭代。
+  - '[[项目-BuildZotero-02-任务主线与业务面问答]]'
+RelatedProjects: []
+CardRecord: 简历事实底稿；深度问答与任务主线见 [[项目-BuildZotero-02-任务主线与业务面问答]]。
 ---
 
 # 简历

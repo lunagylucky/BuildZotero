@@ -1,39 +1,40 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P6-UploadS2-UploadPDFV1
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - 代码
-  - 批量处理
-  - 三元运算符
-  - 文件上传
-  - 学术工具
-  - 异步编程
-  - JavaScript
-  - OpenAI
-  - PDF
-  - Zotero
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- 代码
+- 批量处理
+- 三元运算符
+- 文件上传
+- 学术工具
+- 异步编程
+- JavaScript
+- OpenAI
+- PDF
+- Zotero
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## ZoteroScript-P 6-UploadS2-UploadPDFV1

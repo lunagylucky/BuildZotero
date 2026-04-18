@@ -1,39 +1,40 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P6-AskS3-AskClipboardV1
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - 代码实现
-  - 工作流优化
-  - 即时处理
-  - 剪贴板分析
-  - 跨应用整合
-  - 系统集成
-  - 信息处理
-  - 智能分析
-  - AskClipboard
-  - Zotero插件
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- 代码实现
+- 工作流优化
+- 即时处理
+- 剪贴板分析
+- 跨应用整合
+- 系统集成
+- 信息处理
+- 智能分析
+- AskClipboard
+- Zotero插件
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## ZoteroScript-P 6-AskS3-AskClipboardV1

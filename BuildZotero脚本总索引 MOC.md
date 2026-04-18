@@ -1,31 +1,32 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: BuildZotero脚本总索引 MOC
 DateCreated: 2026-04-17 12:20
 DateModified: 2026-04-18 17:38
 Type:
-  - map
+- map
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/脚本索引
-  - Pattern/Model
+- Topic/工具技能/脚本索引
+- Pattern/Model
 RelatedNote:
-  - "[[BuildZotero项目 MOC]]"
-  - "[[Scripts/所有最新版本代码集合]]"
-RelatedProjects:
-CardRecord:
+- '[[BuildZotero项目 MOC]]'
+- '[[Scripts/所有最新版本代码集合]]'
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## BuildZotero脚本总索引 MOC

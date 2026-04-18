@@ -1,49 +1,50 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P1-Tag2方法标签V4
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - AI
-  - JavaScript
-  - Zotero
-  - 三层架构
-  - 三维标签
-  - 代码
-  - 学术分析
-  - 学术标准
-  - 学术研究
-  - 层次理论
-  - 技术创新
-  - 文献管理
-  - 方法学分析
-  - 方法学理论
-  - 标签体系
-  - 样本分析
-  - 研究对象
-  - 研究方法
-  - 研究方法学
-  - 质量控制
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- AI
+- JavaScript
+- Zotero
+- 三层架构
+- 三维标签
+- 代码
+- 学术分析
+- 学术标准
+- 学术研究
+- 层次理论
+- 技术创新
+- 文献管理
+- 方法学分析
+- 方法学理论
+- 标签体系
+- 样本分析
+- 研究对象
+- 研究方法
+- 研究方法学
+- 质量控制
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## ZoteroScript-P1-Tag2 方法标签 V4

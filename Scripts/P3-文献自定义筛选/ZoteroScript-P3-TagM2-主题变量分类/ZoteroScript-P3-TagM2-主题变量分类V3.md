@@ -1,45 +1,46 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: ZoteroScript-P3-TagM2-主题变量分类V3
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-18 17:38
 Type:
-  - doc
+- doc
 Status:
-  - doing
-Version: v1.0
+- doing
+Version:
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
+- card-fleeting
 tags:
-  - Topic/工具技能/工作笔记
-  - AI
-  - AI研究
-  - JavaScript
-  - V3版本
-  - Zotero
-  - 主题分类
-  - 代码
-  - 创新
-  - 创新研究
-  - 变量分类
-  - 学术研究
-  - 智能清理
-  - 标签体系
-  - 标签清理
-  - 标签维护
-  - 自动化标签
-  - Pattern/Method
-RelatedNote:
-RelatedProjects:
-CardRecord:
+- Topic/工具技能/工作笔记
+- AI
+- AI研究
+- JavaScript
+- V3版本
+- Zotero
+- 主题分类
+- 代码
+- 创新
+- 创新研究
+- 变量分类
+- 学术研究
+- 智能清理
+- 标签体系
+- 标签清理
+- 标签维护
+- 自动化标签
+- Pattern/Method
+RelatedNote: []
+RelatedProjects: []
+CardRecord: null
 ---
 
 ## ZoteroScript-P3-TagM2- 主题变量分类 V3
