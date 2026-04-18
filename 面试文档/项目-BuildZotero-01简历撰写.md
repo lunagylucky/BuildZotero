@@ -21,9 +21,9 @@ CardType:
   - card-project
 tags: [Pattern/Memo, Topic/工具技能/工作笔记]
 RelatedNote:
-  - '[[项目-BuildZotero-02-任务主线与业务面问答]]'
+  - '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
 RelatedProjects: []
-CardRecord: 简历事实底稿；深度问答与任务主线见 [[项目-BuildZotero-02-任务主线与业务面问答]]。
+CardRecord: 简历事实底稿；深度问答与任务主线见 [[项目-BuildZotero-02-任务主线与业务面试问答]]。
 ---
 
 # 简历

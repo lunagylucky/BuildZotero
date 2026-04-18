@@ -22,9 +22,9 @@ CardType:
 tags: [Pattern/Memo, Topic/工具技能/工作笔记]
 RelatedNote:
   - '[[项目-BuildZotero-01简历撰写]]'
-  - '[[项目-BuildZotero-02-任务主线与业务面问答]]'
+  - '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
 RelatedProjects: []
-CardRecord: 项目定位与模块梳理；面试主线与问答见 [[项目-BuildZotero-02-任务主线与业务面问答]]。
+CardRecord: 项目定位与模块梳理；面试主线与问答见 [[项目-BuildZotero-02-任务主线与业务面试问答]]。
 ---
 
 # BuildZotero —— AI 驱动的知识工程解决方案

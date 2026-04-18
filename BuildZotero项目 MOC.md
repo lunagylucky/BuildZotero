@@ -9,7 +9,7 @@ Project:
 - BuildZotero
 Title: BuildZotero项目 MOC
 DateCreated: 2026-04-17 12:00
-DateModified: 2026-04-19 12:00
+DateModified: 2026-04-19 16:00
 Type:
 - map
 Status:
@@ -40,7 +40,7 @@ CardRecord: null
 3. [[产品文档/04-产品架构文档]]
 4. [[产品文档/05-产品路线图]]
 5. [[Scripts/所有最新版本代码集合]]
-6. [[面试文档/项目-BuildZotero-02-任务主线与业务面问答]]
+6. [[面试文档/项目-BuildZotero-02-任务主线与业务面试问答]]
 
 ### 02. 产品文档区（产品定义与对外表达）
 
@@ -58,7 +58,7 @@ CardRecord: null
 
 - [[产品文档/BuildZotero——AI驱动的知识工程解决方案产品介绍]]
 - [[产品文档/BuildZotero——AI驱动的知识工程解决方案-简历撰写]]
-- [[面试文档/项目-BuildZotero-02-任务主线与业务面问答]]（原「简历深挖」已合并至此）
+- [[面试文档/项目-BuildZotero-02-任务主线与业务面试问答]]（原「简历深挖」已合并至此）
 - [[产品文档/BuildZotero-技术架构与产品优势分析]]
 - [[产品文档/BuildZotero-产品需求文档]]
 - [[产品文档/BuildZotero-功能清单]]
@@ -71,7 +71,7 @@ CardRecord: null
 - [[项目-BuildZotero-06项目介绍梳理]]
 - [[项目-BuildZotero-07产品介绍文档]]
 - [[项目-BuildZotero-01简历撰写]]
-- [[面试文档/项目-BuildZotero-02-任务主线与业务面问答]]
+- [[面试文档/项目-BuildZotero-02-任务主线与业务面试问答]]
 
 ### 04. 脚本系统区（Script Hub）
 

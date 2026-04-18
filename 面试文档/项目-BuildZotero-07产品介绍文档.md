@@ -22,10 +22,10 @@ CardType:
 tags: [Pattern/Memo, Topic/工具技能/工作笔记]
 RelatedNote:
   - '[[项目-BuildZotero-01简历撰写]]'
-  - '[[项目-BuildZotero-02-任务主线与业务面问答]]'
+  - '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
   - '[[项目-BuildZotero-06项目介绍梳理]]'
 RelatedProjects: []
-CardRecord: 对外发布页与演示入口；简历与面试主线见 01、[[项目-BuildZotero-02-任务主线与业务面问答]]；系统定位见 06。
+CardRecord: 对外发布页与演示入口；简历与面试主线见 01、[[项目-BuildZotero-02-任务主线与业务面试问答]]；系统定位见 06。
 ---
 
 ❤️请点击以下进入 [BuildZotero产品介绍](https://publish.obsidian.md/gyjob/4-WorkProjects/11Luna/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E9%9B%86/BuildZotero%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D)
