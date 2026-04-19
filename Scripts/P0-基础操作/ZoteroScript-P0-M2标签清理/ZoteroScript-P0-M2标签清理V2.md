@@ -32,9 +32,9 @@ tags:
 - JavaScript
 - Zotero
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P0- 标签清理 V2

@@ -35,9 +35,9 @@ tags:
 - 标签体系
 - 自动化标签
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P3-TagM2- 主题变量分类 V2

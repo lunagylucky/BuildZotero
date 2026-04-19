@@ -24,9 +24,9 @@ tags:
 - 0EA293
 - 2196F3
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## LR2-矩阵标签要点 版本迭代说明

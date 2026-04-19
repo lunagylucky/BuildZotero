@@ -32,9 +32,9 @@ tags:
 - PDF分析
 - Zotero插件
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P 6-AskS1-AskSelectionV1

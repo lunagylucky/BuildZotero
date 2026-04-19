@@ -30,9 +30,9 @@ tags:
 - 文献管理
 - 知识管理
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ObsidianScript-LR1- 文献矩阵 0 设计架构

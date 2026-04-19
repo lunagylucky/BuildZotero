@@ -32,9 +32,9 @@ tags:
 - PDF
 - Zotero
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P 6-UploadS2-UploadPDFV1

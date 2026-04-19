@@ -22,9 +22,9 @@ CardType:
 tags:
 - Topic/工具技能/工作笔记
 - Pattern/Memo
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 # BuildZotero - 产品需求文档 (PRD) v3.0

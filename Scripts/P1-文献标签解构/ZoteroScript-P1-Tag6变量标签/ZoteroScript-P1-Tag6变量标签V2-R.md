@@ -22,9 +22,9 @@ CardType:
 tags:
 - Topic/工具技能/工作笔记
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P1-Tag6 变量标签 V2-R

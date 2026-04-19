@@ -22,9 +22,9 @@ CardType:
 tags:
 - Topic/工具技能/工作笔记
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## LR4-文献综述 版本迭代说明

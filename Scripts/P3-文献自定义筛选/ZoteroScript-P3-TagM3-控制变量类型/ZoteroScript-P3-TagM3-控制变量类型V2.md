@@ -35,9 +35,9 @@ tags:
 - 标签维护
 - 研究设计
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P3-TagM3- 控制变量类型 V2

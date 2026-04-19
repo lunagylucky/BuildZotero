@@ -39,9 +39,9 @@ tags:
 - 界面设计
 - 配置管理
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P0-M1 标签展示 V2

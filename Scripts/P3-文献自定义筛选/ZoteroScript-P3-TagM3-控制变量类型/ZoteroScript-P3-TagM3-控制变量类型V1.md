@@ -31,9 +31,9 @@ tags:
 - JavaScript
 - Zotero
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P3-TagM3- 控制变量类型标签

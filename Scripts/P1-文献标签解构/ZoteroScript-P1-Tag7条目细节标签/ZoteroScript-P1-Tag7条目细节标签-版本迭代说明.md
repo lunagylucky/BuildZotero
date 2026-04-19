@@ -22,9 +22,9 @@ CardType:
 tags:
 - Topic/工具技能/工作笔记
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## Tag7- 条目细节标签 版本迭代说明

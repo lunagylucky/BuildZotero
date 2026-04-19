@@ -36,9 +36,9 @@ tags:
 - 行业标签
 - 面板数据
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P3-TagM4- 地区固定效应 V2

@@ -31,9 +31,9 @@ tags:
 - JavaScript
 - Zotero
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P0-M1 标签展示 V1

@@ -29,9 +29,9 @@ tags:
 - JavaScript
 - Zotero
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P0-M4 标题清理 V1

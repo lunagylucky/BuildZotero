@@ -29,9 +29,9 @@ tags:
 - JavaScript
 - Zotero
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P2-Table2 统计标签 V1

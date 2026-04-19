@@ -1,30 +1,32 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: 项目-BuildZotero-07产品介绍文档
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-19 12:00
 Type:
-  - publish
+- publish
 Status:
-  - doing
+- doing
 Version:
-  - v1.0
+- v1.0
 CardStatus: true
 CardType:
-  - card-project
-tags: [Pattern/Memo, Topic/工具技能/工作笔记]
+- card-project
+tags:
+- Pattern/Memo
+- Topic/工具技能/工作笔记
 RelatedNote:
-  - '[[项目-BuildZotero-01简历撰写]]'
-  - '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
-  - '[[项目-BuildZotero-06项目介绍梳理]]'
-RelatedProjects: []
+- '[[项目-BuildZotero-01简历撰写]]'
+- '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
+- '[[项目-BuildZotero-06项目介绍梳理]]'
+RelatedProjects:
 CardRecord: 对外发布页与演示入口；简历与面试主线见 01、[[项目-BuildZotero-02-任务主线与业务面试问答]]；系统定位见 06。
 ---
 

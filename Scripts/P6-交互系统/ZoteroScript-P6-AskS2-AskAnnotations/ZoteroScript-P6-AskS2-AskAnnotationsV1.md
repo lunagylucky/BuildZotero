@@ -27,9 +27,9 @@ tags:
 - PDF注释
 - Zotero插件
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P 6-AskS2-AskAnnotationsV1

@@ -24,9 +24,9 @@ tags:
 - 0EA293
 - 2196F3
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## LR1- 矩阵标签生成 版本迭代说明

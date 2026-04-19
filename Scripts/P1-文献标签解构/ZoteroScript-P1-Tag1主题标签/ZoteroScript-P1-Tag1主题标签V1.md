@@ -26,9 +26,9 @@ tags:
 - 标签
 - 脚本
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P1-Tag1 主题标签 V1

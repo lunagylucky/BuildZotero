@@ -34,9 +34,9 @@ tags:
 - 标签体系
 - 知识管理
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P1-Tag1 主题标签 Rnote 2

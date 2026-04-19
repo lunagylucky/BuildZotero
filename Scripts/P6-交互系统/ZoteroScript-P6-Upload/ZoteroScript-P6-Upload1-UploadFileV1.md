@@ -30,9 +30,9 @@ tags:
 - OpenAI
 - Zotero
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P 6-Upload1-UploadFileV1

@@ -23,9 +23,9 @@ tags:
 - Topic/工具技能/工作笔记
 - zoteroone
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ObsidianScript-LR- 文献矩阵 1 原始

@@ -42,9 +42,9 @@ tags:
 - 研究方法学
 - 质量控制
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P1-Tag2 方法标签 V3-Rnote（笔记优先版本）

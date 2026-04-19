@@ -1,28 +1,30 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: 项目-BuildZotero-01简历撰写
 DateCreated: 2026-01-17 17:37
 DateModified: 2026-04-19 12:00
 Type:
-  - doc
+- doc
 Status:
-  - doing
+- doing
 Version:
-  - v1.0
+- v1.0
 CardStatus: true
 CardType:
-  - card-project
-tags: [Pattern/Memo, Topic/工具技能/工作笔记]
+- card-project
+tags:
+- Pattern/Memo
+- Topic/工具技能/工作笔记
 RelatedNote:
-  - '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
-RelatedProjects: []
+- '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
+RelatedProjects:
 CardRecord: 简历事实底稿；深度问答与任务主线见 [[项目-BuildZotero-02-任务主线与业务面试问答]]。
 ---
 

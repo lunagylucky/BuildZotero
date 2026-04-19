@@ -1,29 +1,31 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: 项目-BuildZotero-06项目介绍梳理
 DateCreated: 2026-04-17 08:20
 DateModified: 2026-04-19 01:50
 Type:
-  - doc
+- doc
 Status:
-  - doing
+- doing
 Version:
-  - v1.0
+- v1.0
 CardStatus: false
 CardType:
-  - card-fleeting
-tags: [Pattern/Memo, Topic/工具技能/工作笔记]
+- card-fleeting
+tags:
+- Pattern/Memo
+- Topic/工具技能/工作笔记
 RelatedNote:
-  - '[[项目-BuildZotero-01简历撰写]]'
-  - '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
-RelatedProjects: []
+- '[[项目-BuildZotero-01简历撰写]]'
+- '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
+RelatedProjects:
 CardRecord: 项目定位与模块梳理；面试主线与问答见 [[项目-BuildZotero-02-任务主线与业务面试问答]]。
 ---
 

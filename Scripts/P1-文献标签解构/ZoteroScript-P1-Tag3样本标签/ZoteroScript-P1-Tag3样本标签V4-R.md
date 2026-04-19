@@ -34,9 +34,9 @@ tags:
 - 研究对象
 - 研究方法学
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P1-Tag3 样本标签 V4-R（重新处理版本）

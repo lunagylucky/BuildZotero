@@ -25,8 +25,8 @@ tags:
 RelatedNote:
 - '[[产品文档/BuildZotero-项目介绍梳理]]'
 - '[[Scripts/所有最新版本代码集合]]'
-RelatedProjects: []
-CardRecord: null
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## BuildZotero 项目 MOC

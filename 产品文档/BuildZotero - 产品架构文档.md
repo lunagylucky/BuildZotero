@@ -22,8 +22,8 @@ CardType:
 tags:
 - Topic/工具技能/工作笔记
 - Pattern/Memo
-RelatedNote: []
-RelatedProjects: []
+RelatedNote:
+RelatedProjects:
 CardRecord: 围绕 BuildZotero 下的 BuildZotero - 产品架构文档 沉淀可复用经验，支持检索、复盘与迭代。
 ---
 

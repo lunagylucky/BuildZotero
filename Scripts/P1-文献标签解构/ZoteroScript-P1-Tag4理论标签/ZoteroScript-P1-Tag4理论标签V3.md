@@ -32,9 +32,9 @@ tags:
 - 知识管理
 - 自动化标签
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P1-Tag4 理论标签 V3

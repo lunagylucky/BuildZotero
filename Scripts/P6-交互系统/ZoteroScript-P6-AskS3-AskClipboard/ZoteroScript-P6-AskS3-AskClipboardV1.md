@@ -32,9 +32,9 @@ tags:
 - AskClipboard
 - Zotero插件
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P 6-AskS3-AskClipboardV1

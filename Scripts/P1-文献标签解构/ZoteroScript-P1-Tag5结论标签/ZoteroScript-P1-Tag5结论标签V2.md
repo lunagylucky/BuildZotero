@@ -31,9 +31,9 @@ tags:
 - 结论提取
 - 自动化标签
 - Pattern/Method
-RelatedNote: []
-RelatedProjects: []
-CardRecord: null
+RelatedNote:
+RelatedProjects:
+CardRecord: ''
 ---
 
 ## ZoteroScript-P1-Tag5 结论标签 V2
