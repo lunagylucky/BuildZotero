@@ -1,38 +1,43 @@
 ---
 System:
-  - Project
+- Project
 Process:
-  - 4-WorkProjects
+- 4-WorkProjects
 Class:
-  - 02TS
+- 02TS
 Project:
-  - BuildZotero
+- BuildZotero
 Title: 项目-BuildZotero-14数据细节追问防守手册
 DateCreated: 2026-04-19 23:20
 DateModified: 2026-04-19 23:45
 Type:
-  - doc
+- doc
 Status:
-  - doing
+- doing
 Version:
-  - v1.0
+- v1.0
 CardStatus: true
 CardType:
-  - card-project
-tags: [Pattern/Memo, Topic/工具技能/工作笔记, Topic/面试, Topic/面试/数据细节]
+- card-project
+tags:
+- Pattern/Memo
+- Topic/工具技能/工作笔记
+- Topic/面试
+- Topic/面试/数据细节
 RelatedNote:
-  - '[[项目-BuildZotero-01简历撰写]]'
-  - '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
-  - '[[项目-BuildZotero-06项目介绍梳理]]'
-  - '[[项目-BuildZotero-07产品介绍文档]]'
-  - '[[项目-BuildZotero-08简历项目介绍-一分钟与三分钟版]]'
-  - '[[项目-BuildZotero-09宝洁行为面八大问题]]'
-  - '[[项目-BuildZotero-10产品经理岗面试问答]]'
-  - '[[项目-BuildZotero-11商业数据分析岗面试问答]]'
-  - '[[项目-BuildZotero-12投行咨询研究岗面试问答]]'
-  - '[[项目-BuildZotero-13专业知识文档-AI应用与产品经理]]'
+- '[[项目-BuildZotero-01简历撰写]]'
+- '[[项目-BuildZotero-02-任务主线与业务面试问答]]'
+- '[[项目-BuildZotero-06项目介绍梳理]]'
+- '[[项目-BuildZotero-07产品介绍文档]]'
+- '[[项目-BuildZotero-08简历项目介绍-一分钟与三分钟版]]'
+- '[[项目-BuildZotero-09宝洁行为面八大问题]]'
+- '[[项目-BuildZotero-10产品经理岗面试问答]]'
+- '[[项目-BuildZotero-11商业数据分析岗面试问答]]'
+- '[[项目-BuildZotero-12投行咨询研究岗面试问答]]'
+- '[[项目-BuildZotero-13专业知识文档-AI应用与产品经理]]'
 RelatedProjects:
-CardRecord: 系列第 14 份｜数据细节追问防守手册。把散落在 08–13 中的所有数字、具体例子、计算分解、迭代故事收敛成「面试官追问三层」的兜底表：单点确认 → 计算分解 → 压力质疑。所有口径与 01/06/07 事实底稿一致，不新增未经核对事实。
+CardRecord: 系列第 14 份｜数据细节追问防守手册。把散落在 08–13 中的所有数字、具体例子、计算分解、迭代故事收敛成「面试官追问三层」的兜底表：单点确认
+  → 计算分解 → 压力质疑。所有口径与 01/06/07 事实底稿一致，不新增未经核对事实。
 ---
 
 **系列导航**（BuildZotero 面试材料）

@@ -35,7 +35,8 @@ RelatedNote:
 - '[[项目-BuildZotero-11商业数据分析岗面试问答]]'
 - '[[项目-BuildZotero-12投行咨询研究岗面试问答]]'
 RelatedProjects:
-CardRecord: 专业知识文档，覆盖 AI 应用（LLM/RAG/Agent/Prompt/评估）与产品经理（框架/指标/商业化）两大维度。与 BuildZotero 各面试答案相互引用。
+CardRecord: 专业知识文档，覆盖 AI 应用（LLM/RAG/Agent/Prompt/评估）与产品经理（框架/指标/商业化）两大维度。与 BuildZotero
+  各面试答案相互引用。
 ---
 
 **系列导航**（BuildZotero 面试材料）
